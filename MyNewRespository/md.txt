@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is CA86-BAAD
+
+ Directory of C:\temp\GitTestsrc\MyNewRespository
+
+11/14/2017  08:38 PM    <DIR>          .
+11/14/2017  08:38 PM    <DIR>          ..
+11/14/2017  08:38 PM                 0 md.txt
+               1 File(s)              0 bytes
+               2 Dir(s)       5,857,280 bytes free
