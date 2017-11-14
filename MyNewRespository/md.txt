@@ -2,3 +2,10 @@
  Volume Serial Number is CA86-BAAD
 
  Directory of C:\temp\GitTestsrc\MyNewRespository
+
+-----------------
+
+ Volume in drive C is OSDisk
+ Volume Serial Number is CA86-BAAD
+
+ Directory of C:\temp\GitTestsrc\MyNewRespository
